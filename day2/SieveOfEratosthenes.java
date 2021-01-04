@@ -1,4 +1,3 @@
-
 class SieveofEratosthenes
 { 
 	static void sieveOfEratosthenes(int n) 
